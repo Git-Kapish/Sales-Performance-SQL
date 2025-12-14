@@ -96,7 +96,8 @@ Sales-Performance-SQL/
 │   └── 06_pareto_analysis.sql
 ├── insights.md
 └── README.md
-## Author
+```
 
+## Author
 **Kapish Yadav**  
 Aspiring Data Analyst
